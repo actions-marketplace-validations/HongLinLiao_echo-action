@@ -2,6 +2,12 @@ name: Echo Action
 
 description: 'Greet someone'
 
+author: Leo Liao
+
+branding:
+  icon: activity
+  color: white
+
 inputs:
   user:
     description: 'user name'
